@@ -1,0 +1,11 @@
+.footer {
+    position: fixed; /* Keeps the footer at the bottom */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Centered text */
+    padding: 15px 0; /* Vertical padding */
+    font-size: 14px; /* Font size */
+}
